@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cann-emma
 - 👀 I’m interested in data analysis and data science, and the worlds they provide insight into
-- 🌱 I’m currently learning PowerBI
+- 🌱 I’m currently learning PowerBI, and machine learning in Python
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was a balayer at a camp
 <!---
